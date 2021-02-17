@@ -1,4 +1,4 @@
-module github.com/Harshaec021/application
+module github.com/Harshaec021/appliaction
 
 go 1.15
 
